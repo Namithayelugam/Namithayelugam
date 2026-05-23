@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Namitha yelugam</h1>
 <h3 align="center">A student in Engineering college</h3>
 
-- 🌱 I’m currently learning **python,Html,css,javascript,basics of java**
-
-- 💬 Ask me about **basics of currently learning coding**
-
-- 📫 How to reach me **namithayelugam81@gmail.com**
-
-- ⚡ Fun fact **I love watching series**
+🎓 B.Tech Graduate in Artificial Intelligence & Data Science
+🤖 AI & Automation Engineer | Exploring LLMs, AI Agents & Intelligent Systems
+💼 Proposal Analyst Intern at AspenTech — working with cross-functional teams on proposal development & approvals
+🧠 Strong in Machine Learning, NLP, Generative AI & Prompt Engineering
+⚙️ Building real-world AI projects: AI Assistants, RAG Chatbots, Topic Modeling Systems
+🔄 Interested in AI Automation, Data Pipelines & workflow tools (n8n, Zapier)
+📝 Technical Writer — creating AI/ML guides, documentation & developer-friendly content
+🚀 Passionate about solving real-world problems using AI + scalable solutions
+🌍 Interested in building AI solutions for global markets (US/EU/CA)
+🏆 Global Nominee — NASA Space Apps Challenge 2024
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
